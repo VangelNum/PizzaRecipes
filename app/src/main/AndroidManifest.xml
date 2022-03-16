@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vangelnum.pizza">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Pizza">
+        <activity
+            android:name=".authors"
+            android:exported="false" />
+        <activity
+            android:name=".contact"
+            android:exported="false" />
+        <activity
+            android:name=".pizza15"
+            android:exported="false" />
+        <activity
+            android:name=".pizza14"
+            android:exported="false" />
+        <activity
+            android:name=".pizza13"
+            android:exported="false" />
+        <activity
+            android:name=".pizza12"
+            android:exported="false" />
+        <activity
+            android:name=".pizza11"
+            android:exported="false" />
+        <activity
+            android:name=".pizza10"
+            android:exported="false" />
+        <activity
+            android:name=".pizza9"
+            android:exported="false" />
+        <activity
+            android:name=".pizza8"
+            android:exported="false" />
+        <activity
+            android:name=".pizza7"
+            android:exported="false" />
+        <activity
+            android:name=".pizza6"
+            android:exported="false" />
+        <activity
+            android:name=".pizza5"
+            android:exported="false" />
+        <activity
+            android:name=".pizza4"
+            android:exported="false" />
+        <activity
+            android:name=".pizza3"
+            android:exported="false" />
+        <activity
+            android:name=".pizza2"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".pizza1"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+    </application>
+
+</manifest>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/drawable-v24/ic_baseline_check_circle_24.xml" value="0.2285" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/drawable-v24/ic_baseline_message_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/font/inder.xml" value="0.284375" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_authors.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_contact.xml" value="0.2" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza1.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza10.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza11.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza12.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza13.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza14.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza15.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza3.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza4.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza5.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza6.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza7.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza8.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_pizza9.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/activity_splash_screen.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/list_item.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/layout/nav_header.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/menu/menu_item.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/menu/nav_menu.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/vangel/pizza2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
