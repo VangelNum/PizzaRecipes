@@ -1,6 +1,8 @@
 # PizzaRecipes
 pizza recipes with recyclerview adapter and search
 
+https://play.google.com/store/apps/details?id=com.vangelnum.pizza&hl=ru&gl=US
+
 ![image](https://user-images.githubusercontent.com/91003195/192330579-d00e3edf-0b46-4826-904c-f15a393f74ef.png)
 ![image](https://user-images.githubusercontent.com/91003195/192330646-c45bc6db-3e2c-42de-b59a-2aa863104f07.png)
 ![image](https://user-images.githubusercontent.com/91003195/192330663-b683a6d2-ef77-44dc-8b7e-2717aa65d10e.png)
